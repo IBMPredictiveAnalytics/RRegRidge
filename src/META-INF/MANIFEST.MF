@@ -7,7 +7,7 @@ Description: This extension command gives the opportunity to perform p
  er Erika Cule) and elastic net.
 Author: Dr. Hans Grüner, Freie Universität Berlin (http://gruener​​.us
  erpage.fu-b​e​rlin.de)
-Version: 1.0.1
+Version: 1.0.3
 Product-Version: 21
 Plugins: R
 R-Packages: lars,elasticnet,ridge

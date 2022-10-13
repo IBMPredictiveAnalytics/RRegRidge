@@ -1,4 +1,5 @@
 Name: RRegRidge
+Display-Name: Ridge Regression
 Dialog-Specs: RRegRidge.spd
 Summary: Various methods for ridge regression and other approaches
 Description: This extension command gives the opportunity to perform p
